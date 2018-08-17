@@ -28,3 +28,20 @@ C:\Users\Leandro\Documents\Curso Kinect\Kinect-master\Practica 2\CamaraWebSencil
 C:\Users\Leandro\Documents\Curso Kinect\Kinect-master\Practica 2\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\Microsoft.Kinect.dll
 C:\Users\Leandro\Documents\Curso Kinect\Kinect-master\Practica 2\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\Microsoft.Kinect.xml
 C:\Users\Leandro\Documents\Curso Kinect\Kinect-master\Practica 2\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.csproj.CopyComplete
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\CamaraWebSencilla.exe.config
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\CamaraWebSencilla.exe
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\CamaraWebSencilla.pdb
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\Microsoft.Kinect.dll
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\bin\Debug\Microsoft.Kinect.xml
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.csprojAssemblyReference.cache
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\MainWindow.baml
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\MainWindow.g.cs
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\App.g.cs
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla_MarkupCompile.cache
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.g.resources
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.Properties.Resources.resources
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.csproj.GenerateResource.cache
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.csproj.CoreCompileInputs.cache
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.csproj.CopyComplete
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.exe
+C:\git\ColorYProfundidad\CamaraWebSencilla\CamaraWebSencilla\obj\Debug\CamaraWebSencilla.pdb

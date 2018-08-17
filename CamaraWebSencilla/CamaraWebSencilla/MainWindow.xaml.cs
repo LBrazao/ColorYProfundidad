@@ -82,7 +82,7 @@ namespace CamaraWebSencilla
                     }
                     i += 4;
                 }
-                /*mostrarVideo.Source = BitmapSource.Create(
+                mostrarVideo.Source = BitmapSource.Create(
                     frameImagen.Width, frameImagen.Height,
                     96,
                     96,
@@ -90,7 +90,7 @@ namespace CamaraWebSencilla
                     null,
                     datosColor,
                     frameImagen.Width * frameImagen.BytesPerPixel
-                    );*/
+                    );
             }
         }
     }
